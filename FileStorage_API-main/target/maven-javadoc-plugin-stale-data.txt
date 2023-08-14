@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'18'
+-sourcepath
+'/Users/lukamitrovic/IdeaProjects/Komponente1/FileStorage_API/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/lukamitrovic/IdeaProjects/Komponente1/FileStorage_API/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'FileStorage_API 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'FileStorage_API 1.0-SNAPSHOT API'
+specifikacija
+specifikacija.izuzeci
+/Users/lukamitrovic/IdeaProjects/Komponente1/FileStorage_API/src/main/java = 1666696652939
+/Users/lukamitrovic/IdeaProjects/Komponente1/FileStorage_API/target/site/apidocs/tag-search-index.js = 1666972637308
+/Users/lukamitrovic/IdeaProjects/Komponente1/FileStorage_API/target/site/apidocs/overview-tree.html = 1666972637263
+/Users/lukamitrovic/IdeaProjects/Komponente1/FileStorage_API/target/site/apidocs/module-search-index.js = 1666972637303
+/Users/lukamitrovic/IdeaProjects/Komponente1/FileStorage_API/target/site/apidocs/index.html = 1666972637271
+/Users/lukamitrovic/IdeaProjects/Komponente1/FileStorage_API/target/site/apidocs/package-search-index.js = 1666972637305
+/Users/lukamitrovic/IdeaProjects/Komponente1/FileStorage_API/target/site/apidocs/jquery-ui.overrides.css = 1666972637372
+/Users/lukamitrovic/IdeaProjects/Komponente1/FileStorage_API/target/site/apidocs/serialized-form.html = 1666972637178
+/Users/lukamitrovic/IdeaProjects/Komponente1/FileStorage_API/target/site/apidocs/index-all.html = 1666972637342
+/Users/lukamitrovic/IdeaProjects/Komponente1/FileStorage_API/target/site/apidocs/allpackages-index.html = 1666972637302
+/Users/lukamitrovic/IdeaProjects/Komponente1/FileStorage_API/target/site/apidocs/member-search-index.js = 1666972637306
+/Users/lukamitrovic/IdeaProjects/Komponente1/FileStorage_API/target/site/apidocs/copy.svg = 1666972637352
+/Users/lukamitrovic/IdeaProjects/Komponente1/FileStorage_API/target/site/apidocs/script.js = 1666972637350
+/Users/lukamitrovic/IdeaProjects/Komponente1/FileStorage_API/target/site/apidocs/stylesheet.css = 1666972637349
+/Users/lukamitrovic/IdeaProjects/Komponente1/FileStorage_API/target/site/apidocs/overview-summary.html = 1666972637344
+/Users/lukamitrovic/IdeaProjects/Komponente1/FileStorage_API/target/site/apidocs/help-doc.html = 1666972637347
+/Users/lukamitrovic/IdeaProjects/Komponente1/FileStorage_API/target/site/apidocs/element-list = 1666972637117
+/Users/lukamitrovic/IdeaProjects/Komponente1/FileStorage_API/target/site/apidocs/allclasses-index.html = 1666972637298
+/Users/lukamitrovic/IdeaProjects/Komponente1/FileStorage_API/target/site/apidocs/type-search-index.js = 1666972637305
+/Users/lukamitrovic/IdeaProjects/Komponente1/FileStorage_API/target/site/apidocs/search.js = 1666972637355

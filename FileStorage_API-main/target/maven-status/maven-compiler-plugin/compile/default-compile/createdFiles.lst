@@ -1,0 +1,8 @@
+specifikacija/izuzeci/InvalidExtension.class
+specifikacija/izuzeci/UnsupportedOperation.class
+specifikacija/izuzeci/DuplicateName.class
+specifikacija/FileStorageSpecification.class
+specifikacija/SpecificationManager.class
+specifikacija/izuzeci/NoSuchFile.class
+specifikacija/izuzeci/InvalidDelete.class
+specifikacija/izuzeci/OversizeException.class

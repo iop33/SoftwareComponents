@@ -1,0 +1,8 @@
+/Users/lukamitrovic/IdeaProjects/Komponente1/FileStorage_API/src/main/java/specifikacija/izuzeci/NoSuchFile.java
+/Users/lukamitrovic/IdeaProjects/Komponente1/FileStorage_API/src/main/java/specifikacija/izuzeci/DuplicateName.java
+/Users/lukamitrovic/IdeaProjects/Komponente1/FileStorage_API/src/main/java/specifikacija/izuzeci/InvalidExtension.java
+/Users/lukamitrovic/IdeaProjects/Komponente1/FileStorage_API/src/main/java/specifikacija/izuzeci/OversizeException.java
+/Users/lukamitrovic/IdeaProjects/Komponente1/FileStorage_API/src/main/java/specifikacija/FileStorageSpecification.java
+/Users/lukamitrovic/IdeaProjects/Komponente1/FileStorage_API/src/main/java/specifikacija/izuzeci/UnsupportedOperation.java
+/Users/lukamitrovic/IdeaProjects/Komponente1/FileStorage_API/src/main/java/specifikacija/SpecificationManager.java
+/Users/lukamitrovic/IdeaProjects/Komponente1/FileStorage_API/src/main/java/specifikacija/izuzeci/InvalidDelete.java
